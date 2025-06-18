@@ -1,0 +1,50 @@
+[
+    {
+        "question": {
+            "en": "How many levels are in Space Waves?",
+            "zh": "太空波浪有多少个关卡？",
+            "es": "¿Cuántos niveles hay en Space Waves?"
+        },
+        "answer": {
+            "en": "Space Waves features 33 unique levels, each with varying difficulty. You can select any level to play at any time.",
+            "zh": "太空波浪拥有33个独特的关卡，每个关卡的难度都不同。您可以随时选择任何关卡进行游戏。",
+            "es": "Space Waves cuenta con 33 niveles únicos, cada uno con diferente dificultad. Puedes seleccionar cualquier nivel para jugar en cualquier momento."
+        }
+    },
+    {
+        "question": {
+            "en": "Is Space Waves free to play?",
+            "zh": "太空波浪是免费游戏吗？",
+            "es": "¿Es Space Waves gratuito?"
+        },
+        "answer": {
+            "en": "Yes, Space Waves is completely free to play online directly in your browser!",
+            "zh": "是的，太空波浪完全免费，可以直接在您的浏览器中在线玩！",
+            "es": "¡Sí, Space Waves es completamente gratis para jugar online directamente en tu navegador!"
+        }
+    },
+    {
+        "question": {
+            "en": "What are the controls for Space Waves?",
+            "zh": "太空波浪的操作方式是什么？",
+            "es": "¿Cuáles son los controles para Space Waves?"
+        },
+        "answer": {
+            "en": "You can control the arrow using the Arrow Keys or W, A, S, D keys on your keyboard. Mobile devices may have on-screen controls, and gamepad support is available.",
+            "zh": "您可以使用键盘上的方向键或 W, A, S, D 键来控制箭头。移动设备可能有屏幕控件，并且支持游戏手柄。",
+            "es": "Puedes controlar la flecha usando las Teclas de Flecha o las teclas W, A, S, D en tu teclado. Los dispositivos móviles pueden tener controles en pantalla y hay soporte para gamepad."
+        }
+    },
+    {
+        "question": {
+            "en": "Can I play Space Waves on my mobile phone?",
+            "zh": "我可以在手机上玩太空波浪吗？",
+            "es": "¿Puedo jugar Space Waves en mi teléfono móvil?"
+        },
+        "answer": {
+            "en": "Yes, Space Waves is an HTML5 game and should be playable on most modern mobile browsers that support WebGL.",
+            "zh": "是的，太空波浪是一款HTML5游戏，应该可以在大多数支持WebGL的现代移动浏览器上运行。",
+            "es": "Sí, Space Waves es un juego HTML5 y debería ser jugable en la mayoría de los navegadores móviles modernos que soporten WebGL."
+        }
+    }
+]
